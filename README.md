@@ -1,3 +1,8 @@
+## 🌐 Live Demo  
+🔗 [Click here to view the live project](https://co-divine-89kyog0pp-riyahablanis-projects.vercel.app/)
+
+
+
 # 🚀 CoDivini - The Ultimate Code Analyzer  
 
 CoDivini is an **AI-powered code analysis tool** that helps developers write **clean, optimized, and secure code** with **real-time feedback, performance insights, and deep analysis history**.  
