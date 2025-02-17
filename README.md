@@ -9,7 +9,7 @@ CoDivini is an **AI-powered code analysis tool** that helps developers write **c
 
 ---
 **CoDivine**
-![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image.png)
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/6c66e929ca3de041ef10995bf3f6edbe901223b0/image.png)
 **Code Analyzer**
 ![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image1.png)
 **Input Code**
