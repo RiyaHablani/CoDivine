@@ -8,7 +8,16 @@
 CoDivini is an **AI-powered code analysis tool** that helps developers write **clean, optimized, and secure code** with **real-time feedback, performance insights, and deep analysis history**.  
 
 ---
-
+**Code Analyzer**
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image1.png)
+**Input Code**
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image2.png)
+**Output Code**
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image3.png)
+**Output Code**
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image4.png)
+**Chat History**
+![Code Analyzer](https://github.com/RiyaHablani/CoDivine/blob/4dc61ef198f4ba6d1a5818bf8052eafb4ce6ee91/image5.png)
 ## 📌 **Table of Contents**  
 - [🔥 Features](#-features)  
 - [🛠 Tech Stack](#-tech-stack)  
