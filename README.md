@@ -1,15 +1,15 @@
-# 🌐 Live Demo  
+# 🌐 **Live Demo**  
 ## 🔗 [Click here to view the live project](https://co-divine-89kyog0pp-riyahablanis-projects.vercel.app/)
 
 
 
-# 🚀 CoDivini - The Ultimate Code Analyzer  
+# 🚀 **CoDivini - The Ultimate Code Analyzer**  
 
 CoDivini is an **AI-powered code analysis tool** that helps developers write **clean, optimized, and secure code** with **real-time feedback, performance insights, and deep analysis history**.  
 
 ---
 
-## 📌 Table of Contents  
+## 📌 **Table of Contents**  
 - [🔥 Features](#-features)  
 - [🛠 Tech Stack](#-tech-stack)  
 - [🚀 Installation & Setup](#-installation--setup)  
@@ -21,7 +21,7 @@ CoDivini is an **AI-powered code analysis tool** that helps developers write **c
 
 ---
 
-## 🔥 Features  
+## 🔥 **Features**  
 
 ### ✅ Smart Code Analysis  
 - **Real-time error detection** for syntax, logic, and styling issues.  
@@ -45,7 +45,7 @@ CoDivini is an **AI-powered code analysis tool** that helps developers write **c
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 **Tech Stack**  
 
 | Tech            | Usage                                      |
 |----------------|-------------------------------------------|
@@ -57,7 +57,7 @@ CoDivini is an **AI-powered code analysis tool** that helps developers write **c
 
 ---
 
-## 🚀 Installation & Setup  
+## 🚀 **Installation & Setup**  
 
 ```sh
 # Clone the repository  
@@ -71,7 +71,7 @@ npm install
 npm run dev  
 
 
-## 📂 Project Structure
+## 📂 **Project Structure**
 CoDivini/  
 │── src/  
 │   ├── components/       # Reusable UI components  
@@ -88,18 +88,18 @@ CoDivini/
 │── package.json          # Project dependencies  
 │── README.md             # Documentation  
 
-## 🎯 Usage
+## 🎯 **Usage**
 1. Paste or type your code into the input editor.
 2. Get instant feedback on syntax errors, best practices, and optimizations.
 3. Review analysis history and track improvements.
 4. Export reports for debugging or documentation.
 
-## 🚀 Performance & Security
+## 🚀 **Performance & Security**
 ✅ Optimized for speed with Vite and efficient rendering.
 ✅ Secure and reliable using best coding practices.
 ✅ Lightweight and minimal dependencies.
 
-## 🤝 Contribution
+## 🤝 **Contribution**
 We welcome contributions! 🚀
 
 Fork the repo.
@@ -108,6 +108,6 @@ Commit changes: git commit -m "Add new feature".
 Push to the branch: git push origin feature-branch.
 Open a PR and contribute to CoDivini!
 
-## 📜 License
+## 📜 **License**
 This project is open-source and available under the MIT License.
 
